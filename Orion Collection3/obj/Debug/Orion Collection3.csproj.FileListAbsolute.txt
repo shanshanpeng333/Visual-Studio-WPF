@@ -1,0 +1,15 @@
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\bin\Debug\Orion Collection3.exe.config
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\bin\Debug\Orion Collection3.exe
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\bin\Debug\Orion Collection3.pdb
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\Orion Collection3.csprojAssemblyReference.cache
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\MainWindow.g.cs
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\App.g.cs
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\Orion Collection3_MarkupCompile.cache
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\Orion Collection3_MarkupCompile.lref
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\MainWindow.baml
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\Orion Collection3.g.resources
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\Orion_Collection3.Properties.Resources.resources
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\Orion Collection3.csproj.GenerateResource.cache
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\Orion Collection3.csproj.CoreCompileInputs.cache
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\Orion Collection3.exe
+C:\program8010\week 1\week 1 assignment\Orion Collection3\Orion Collection3\obj\Debug\Orion Collection3.pdb
